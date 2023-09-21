@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "мантаварка",
+      "price": 999,
+      "image": "assets/images/manti.webp",
+      "description": "Это чудо сделает ваших домашних счастливыми"
+    },
+    {
+      "id": 2,
+      "title": "шапка болельщика",
+      "price": 500,
+      "image": "assets/images/shapka.webp",
+      "description": "С этой шапкой болеть веселее"
+    },
+    {
+      "id": 3,
+      "title": "чехол",
+      "price": 100,
+      "image": "assets/images/orig.webp",
+      "description": "Ходовой товар"
+    },
+    {
+      "id": 4,
+      "title": "один носок",
+      "price": "10",
+      "image": "https://storage-cdn8.gloria-jeans.ru/medias/GHS007859-1-01-300Wx300H.jpg?context=bWFzdGVyfHByb2R1Y3R8MTYzMTd8aW1hZ2UvanBlZ3xoZmIvaGU2Lzk4MDMzMzg2NDU1MzQvR0hTMDA3ODU5LTEtMDFfMzAwV3gzMDBILmpwZ3xhZmI5NGQ4Yzk1NjNkYTQxZWFkODRkYTdiMTAwZjA5YzQxZDY5YTM1NTAyMGQ3NDhmYjVkNDVkMjdmZjkxNjMw",
+      "description": "Потеряшка :("
+    }
+  ],
+  "basket": [
+    {
+      "id": 2,
+      "title": "шапка болельщика",
+      "image": "assets/images/shapka.webp",
+      "price": 500,
+      "description": "С этой шапкой болеть веселее",
+      "quantity": 14
+    }
+  ]
+}

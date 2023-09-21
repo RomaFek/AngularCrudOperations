@@ -1,0 +1,37 @@
+.container {
+  margin: 20px auto 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+
+}
+
+.example-card {
+ margin: 15px;
+  max-width: 400px;
+}
+
+mat-card {
+  background-color: rgb(255, 255, 255);
+  color: black;
+  margin-right: 15px;
+}
+mat-card-title {
+  display: block; 
+  margin: 0 auto; 
+}
+.image {
+  max-width: 300px;
+  max-height: 300px;
+  display: block; 
+  margin: 0 auto; 
+}
+
+.button {
+  margin-right: 5px;
+}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
